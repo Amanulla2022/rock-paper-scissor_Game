@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    background-image: url('rock-paper-scissors-hand-icons.png');
+        
+}
+.button {
+    background-color: black;
+    color: #fff;
+    border-radius: 30px;
+    margin-left: 50px;
+}
+h3 {
+    color: #fff;
+}
+p{
+    color: #fff;
+}
+h1 {
+    color: aquamarine;
+}
